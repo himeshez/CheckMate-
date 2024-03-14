@@ -1,4 +1,4 @@
-# ToDoer
+# CheckMate
 
 ## Introduction
 
