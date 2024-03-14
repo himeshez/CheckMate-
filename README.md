@@ -45,6 +45,11 @@ We have also added a functioning delete button beside each stored task to remove
 
 At the end, we have added a deleteAllBtn to delete all the stored tasks from the list.
 
+## Overview
+<div align="center">
+<img width="1000px" height="395px" src="https://github.com/himeshez/CheckMate-/blob/0d38acc80924e9064bf32aecd63a1a105b4c8792/ToDO.gif"/>
+</div>
+
 <hr>
 
 ## Conclusion
